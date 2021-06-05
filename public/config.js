@@ -5,7 +5,7 @@ window.Config = {
   SiteName: 'Uptime Status',
 
   // 站点链接
-  SiteUrl: 'http://check.hiurl.org/',
+  SiteUrl: 'https://check.hiurl.org/',
 
   // UptimeRobot Api 域名
   // 只需填写域名部分，默认为官网域名
@@ -16,10 +16,8 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'm784488775-dd1ad84b209c05f8e185c33e',
-    'm784490063-7b5da437e7f1e0d67613714d',
-    'm784497419-de55aa09902ccb3ab22d548a',
-    'm784496436-71a4bf7b1e3bdf7756be131b',
+    'm788334989-0f65aa53f8c7a16f1970965d',
+    'm788335056-d56a4cc8c2fd2c28cbac8526',
   ],
 
   // 是否显示监测站点的链接
